@@ -1939,6 +1939,10 @@ section {
   text-align: center;
   margin-top: 10%;
 }
+.text-lern:hover{
+  color: #3194db;
+  text-decoration: none;
+}
 
 .btn-contact{
   display: inline-block;
@@ -1958,7 +1962,7 @@ section {
   color: #2487ce;
 }
 .clr{
-  color:pink;
+  color:rgb(249, 166, 0);
 }
 
 
