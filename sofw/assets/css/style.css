@@ -213,7 +213,7 @@ h6 {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #2487ce;
+  background: #24ceaf;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -223,7 +223,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #3194db;
+  background: #336183;
 }
 
 .navbar .dropdown ul {
@@ -451,11 +451,11 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #2487ce;
+  background: #79e0e0;
 }
 
 #hero .btn-get-started:hover {
-  background: #3194db;
+  background: #0c161e;
 }
 
 #hero .icon-boxes {
@@ -1044,7 +1044,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #2487ce;
+  background: #8e58ae;
   background-size: cover;
   padding: 60px 0;
 }
@@ -1395,7 +1395,7 @@ section {
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #124265;
+  color: #277fbe;
 }
 
 .pricing .box h4 {
@@ -1461,7 +1461,7 @@ section {
 }
 
 .pricing .featured {
-  background: #2487ce;
+  background: #24ce9e;
 }
 
 .pricing .featured h3,
@@ -1905,7 +1905,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3194db;
+  background: #31dbb3;
 }
 
 #footer .credits {
@@ -1917,7 +1917,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2487ce;
+  background: #14c8a4;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1940,7 +1940,7 @@ section {
   margin-top: 10%;
 }
 .text-lern:hover{
-  color: #3194db;
+  color: #31db9d;
   text-decoration: none;
 }
 
@@ -1948,21 +1948,25 @@ section {
   display: inline-block;
   padding: 10px 40px;
   border-radius: 4px;
-  color: #2487ce;
+  color: #000000;
   transition: none;
   font-size: 14px;
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   transition: 0.3s;
-  border: 2px solid #2487ce;
+  border: 2px solid #000000;
 }
 .btn-contact:hover {
-  background: #fff;
-  color: #2487ce;
-}
+    background: #9f0de7;
+    border: 2px solid #cbacda;
+    color: #55ff00;
+  }
 .clr{
   color:rgb(249, 166, 0);
+}
+.clo{
+  color: hotpink;
 }
 
 
